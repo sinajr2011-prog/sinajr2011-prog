@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=SINAH+IS+HERE!&fontSize=60&fontColor=ffffff&tama=left&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%7C%20AI%20%7C%20GAMES%20%7C%20MATH" alt="Capsule Render Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=SINA+IS+HERE!&fontSize=60&fontColor=ffffff&tama=left&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%7C%20AI%20%7C%20GAMES%20%7C%20MATH" alt="Capsule Render Banner" />
 </p>
 
 <!-- =============================================================== -->
