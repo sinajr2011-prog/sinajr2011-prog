@@ -101,15 +101,6 @@
       <img src="https://img.shields.io/badge/SampadMath-Intelligent%20Math%20Platform-0A192F?style=flat-square&logo=github&logoColor=00F0FF" alt="SampadMath" />
     </a>
     <p><em>An intelligent platform for math exploration, problem-solving, and learning, blending modern web tech with mathematical rigor.</em></p>
-
-    <!-- Project 2: Add more projects here if you have them -->
-    <!-- Example for a hypothetical game project -->
-    <!--
-    <a href="https://github.com/sinajr2011-prog/my-game-project">
-      <img src="https://img.shields.io/badge/Cosmic%20Quest-Indie%20Game-4A00E0?style=flat-square&logo=unity&logoColor=white" alt="Cosmic Quest Game" />
-    </a>
-    <p><em>Embark on an epic journey in Cosmic Quest, a sci-fi RPG built with Unreal Engine, featuring intricate puzzles and a captivating story.</em></p>
-    -->
   </p>
 </div>
 
