@@ -56,6 +56,9 @@
   </p>
 </div>
 
+
+![GitHub Languages](https://github-languages-card.vercel.app/api/top-languages?username=sinajr2011-prog&theme=mint)
+
 <!-- =============================================================== -->
 <!--                     🚀 MY CODING UNIVERSE                    -->
 <!-- =============================================================== -->
