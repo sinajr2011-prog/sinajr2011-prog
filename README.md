@@ -127,17 +127,10 @@
     <a href="https://github.com/sinajr2011-prog">
       <img src="https://img.shields.io/badge/GitHub-sinajr2011--prog-000000?style=for-the-badge&logo=github&logoColor=00F0FF" alt="GitHub Profile"/>
     </a>
-    <a href="mailto:sinajr2011@gmail.com"> <!-- Replace with your actual email -->
-      <img src="https://img.shields.io/badge/Email-Your%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
+    <a href="mailto:sinajr2011@gmail.com"> 
+      <img src="https://img.shields.io/badge/Email-My%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
     </a>
-    <!-- Add other social media links here if you want -->
-    <!-- Example for LinkedIn:
-    <a href="https://linkedin.com/in/your-profile">
-      <img src="https://img.shields.io/badge/LinkedIn-Your%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    -->
-  </p>
-</div>
+  
 
 <!-- =============================================================== -->
 <!--                           FOOTER                                -->
