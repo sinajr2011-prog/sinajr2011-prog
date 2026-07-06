@@ -1,9 +1,22 @@
 <!-- =============================================================== -->
 <!--                           BANNER AREA                           -->
 <!-- =============================================================== -->
+
+<div align="center" width="100%">
+<div align="center">
+
+<!-- ANIMATED HEADER BANNER -->
+![header](https://itextglow.vercel.app/api/banner?text=Sina+Jafari&sub=%5BDeveloper-Builder-Explorer%5D&font=Press+Start+2P&bg1=0a0015&bg2=1e0030&t1=e040fb&t2=7c4dff&sc=a877b1&size=62&subsize=16&width=960&align=center&transparent=0&pattern=dots&patcolor=ffffff&patop=10&animate=glow&shadow=000000&shadowblur=3&shadowx=0&shadowy=3)
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="Backhand Index Pointing Down" width="50" height="50" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="Backhand Index Pointing Down" width="50" height="50" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="Backhand Index Pointing Down" width="50" height="50" /> 
+
+<!-- PROFILE VIEWS + FOLLOWERS BADGES -->
+![Profile Views](https://komarev.com/ghpvc/?username=sinajr2011-prog&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/sinajr2011-prog?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=FOLLOWERS)
+
 <p align="center">
   <a href="https://github.com/sinajr2011-prog">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&color=00F0FF&center=true&vCenter=true&width=700&lines=Welcome+to+My+Digital+Universe!;Sina+Jafari+(sinajr);Full-Stack+Dev+%7C+AI+Explorer+%7C+Game+Dev+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&color=00F0FF&center=true&vCenter=true&width=700&lines=Welcome+to+My+Digital+Universe!;Full-Stack+Dev+%7C+AI+Explorer+%7C+Game+Dev" alt="Typing SVG" />
   </a>
 </p>
 
@@ -55,6 +68,25 @@
     </a>
   </p>
 </div>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Pick.png" alt="Hammer and Pick" width="50" height="50" /> Tech Stack
+
+
+<div align="center">
+
+| # | Category | Icons |
+|---|---|---|
+| 🔤 | **Languages** | [![](https://skillicons.dev/icons?i=python,js,ts,cs,c)](#) |
+| 🎨 | **Frontend** | [![](https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,htmx)](#) |
+| ⚙️ | **Backend** | [![](https://skillicons.dev/icons?i=django,flask,fastapi,dotnet)](#) |
+| 🚀 | **DevOps** | [![](https://skillicons.dev/icons?i=github,git,linux,nginx,docker,cloudflare)](#) |
+| 🧰 | **Tools** | [![](https://skillicons.dev/icons?i=postman,npm,vscode,visualstudio,vim,sublime,pycharm,codepen)](#) |
+| 🎯 | **Other** | [![](https://skillicons.dev/icons?i=pr,ps,ai,wordpress,windows)](#) |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 
 ![GitHub Languages](https://github-languages-card.vercel.app/api/top-languages?username=sinajr2011-prog&theme=mint)
