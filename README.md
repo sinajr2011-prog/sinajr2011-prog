@@ -162,6 +162,9 @@
     <a href="mailto:sinajr2011@gmail.com"> 
       <img src="https://img.shields.io/badge/Email-My%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
     </a>
+
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:00d4ff,100:0d1117&height=120&section=footer"/>
+
   
 
 <!-- =============================================================== -->
