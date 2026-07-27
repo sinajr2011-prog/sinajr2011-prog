@@ -24,6 +24,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=SINA+IS+HERE!&fontSize=60&fontColor=ffffff&tama=left&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%7C%20AI%20%7C%20GAMES%20%7C%20MATH" alt="Capsule Render Banner" />
 </p>
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sinajr2011@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sina-jafari-a031b9419)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sinajr2011-prog)
+
 <!-- =============================================================== -->
 <!--                  👋 GREETING & ROLE STATEMENT                  -->
 <!-- =============================================================== -->
@@ -105,25 +109,47 @@
   </p>
 </div>
 
+
+
+
 <!-- =============================================================== -->
 <!--                ✨ VISUAL PROFILE STATS & GRAPHICS              -->
 <!-- =============================================================== -->
-<div align="center">
-  <h3 align="center">My GitHub Pulse:</h3>
-  <!-- Profile Stats & Top Languages -->
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=sinajr2011-prog&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=ffffff&locale=en&hide=stars" alt="GitHub Stats" height="220"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinajr2011-prog&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=ffffff&locale=en&langs_count=8" alt="Top Languages" height="220"/>
-  </p>
   <!-- Contribution Graph -->
   <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=sinajr2011-prog&theme=github-dark&bg_color=0D1117&color=00F0FF&title_color=ffffff&text_color=ffffff&hide_title=false&area=true&width=650&height=200" alt="Contribution Graph"/>
   </p>
-  <!-- WakaTime Stats -->
-   <p align="center">
-     <a href="https://wakatime.com/@sinajr2011-prog"><img src="https://wakatime.com/badge/user/7f4c5c00-3329-43e6-8a5d-d52f350d4b9a.svg?style=for-the-badge&icon=wakatime&color=00F0FF" alt="Wakatime Stats" /></a>
-   </p>
+  
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=sinajr2011-prog&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=sinajr2011-prog&theme=tokyonight&hide_border=true" width="48%" />
+
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sinajr2011-prog&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=sinajr2011-prog&theme=tokyonight&no-frame=true&row=1&column=7" width="95%" />
+
 </div>
+
+---
+
+## ⭐ Repository Stars
+
+<div align="center">
+
+<img src="https://img.shields.io/github/stars/sinajr2011-prog?label=Total%20Stars&style=for-the-badge&color=FFD700&labelColor=FFA500" />
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=11,20,24&height=70&section=header&text=About%20Me&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
+</div>
+
+
 
 <!-- =============================================================== -->
 <!--                       🌟 FEATURED PROJECTS                    -->
@@ -149,19 +175,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=sinajr2011-prog&theme=dracula&no-frame=true&row=1&column=6&margin-left=5&margin-right=5" alt="GitHub Trophies"/>
   </p>
 </div>
-
-<!-- =============================================================== -->
-<!--                         🤝 CONNECT WITH ME                      -->
-<!-- =============================================================== -->
-<div align="center">
-  <h3 align="center">Let's Connect & Collaborate!</h3>
-  <p align="center">
-    <a href="https://github.com/sinajr2011-prog">
-      <img src="https://img.shields.io/badge/GitHub-sinajr2011--prog-000000?style=for-the-badge&logo=github&logoColor=00F0FF" alt="GitHub Profile"/>
-    </a>
-    <a href="mailto:sinajr2011@gmail.com"> 
-      <img src="https://img.shields.io/badge/Email-My%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
-    </a>
 
  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:00d4ff,100:0d1117&height=120&section=footer"/>
 
