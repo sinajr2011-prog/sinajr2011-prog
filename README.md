@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:00d4ff,100:7c3aed&height=200&section=header&text=SINA%20JAFARI&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20AI%20Explorer&descAlignY=54&descSize=19" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:00d4ff,100:7c3aed&height=200&section=header&text=SINA%20JAFARI&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Builder%20of%20Nova-Edu%20%E2%80%A2%20AI%20%E2%80%A2%20EdTech%20%E2%80%A2%20Full-Stack&descAlignY=54&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2600&pause=700&color=00D4FF&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Sina+Jafari+%F0%9F%91%8B;Full-Stack+Developer;AI+Explorer+%F0%9F%A4%96;Building+Quanta+%F0%9F%9A%80;Open-Source+Builder;Turning+Ideas+Into+Real+Products" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2600&pause=700&color=00D4FF&center=true&vCenter=true&width=980&lines=Building+Nova-Edu+%F0%9F%9A%80;The+First+Specialized+Iranian+Educational+LLM;AI+%2B+Agents+%2B+Memory+%2B+Platform+API;Turning+Ideas+Into+Real+Products" alt="Typing animation"/>
 
 <br/>
 
@@ -35,25 +35,58 @@
 
 <a id="english"></a>
 
+---
 
-<p align="center">
-  <img src="https://github.com/0xPacman/0xPacman/blob/master/spin.gif" alt="loading..." />
-</p>
+## 🔥 Flagship Project: Nova-Edu
+
+<div align="center">
+
+### **نِوا | Nova-Edu**
+#### The first specialized Iranian educational LLM + multi-agent tutor system
+
+<a href="https://github.com/sinajr2011-prog/nova-edu">
+<img src="https://img.shields.io/badge/NOVA--EDU-SPECIALIZED%20IRANIAN%20EDUCATIONAL%20AI-7c3aed?style=for-the-badge&labelColor=0d1117"/>
+</a>
+
+</div>
+
+**Nova is not another chatbot wrapper.**  
+It is being built as a serious educational intelligence engine for Iranian students:
+
+- 🧠 Specialized focus on textbooks + Konkur + Tizhooshan + Olympiad
+- 🤖 Multi-agent system (Mistake Finder, Question Designer, Visual Explainer, Advisor)
+- 🧩 Long-term student memory
+- 🖼️ Educational image + video generation layer
+- 🔌 REST API for integration into real learning platforms
+- 🚀 Independent model path (SFT → DPO → local inference)
+
+```text
+Platform / App / LMS
+        ↓
+     Nova API
+        ↓
+Agents + Memory + LLM + Multimodal
+```
+
+<a href="https://github.com/sinajr2011-prog/nova-edu">
+<img src="https://img.shields.io/badge/⭐%20Star%20Nova--Edu-00d4ff?style=for-the-badge&labelColor=0d1117"/>
+</a>
+
 ---
 
 ## 👋 About Me
 
-I'm **Sina Jafari** — a student developer who loves turning ideas into real software.
+I'm **Sina Jafari** — a student developer building ambitious AI + EdTech systems.
 
-I enjoy exploring the intersection of **AI, full-stack development, automation, and developer tools**.
+I care about products that actually help learners, not just demos.
 
 ```text
 ┌──────────────────────────────────────────────────────┐
-│  👨‍💻 Developer     → Full-Stack & AI                 │
-│  🤖 Exploring      → Artificial Intelligence          │
-│  🏫 Building       → Quanta                           │
-│  🧰 Creating       → Developer Tools                  │
-│  🌍 Goal           → Build things that matter        │
+│  🔥 Flagship      → Nova-Edu                         │
+│  🤖 Focus         → Educational AI & Agents          │
+│  🏫 Also Building → Quanta / Kharazmika ecosystem    │
+│  🧰 Stack         → Python, PHP, Full-Stack, AI      │
+│  🌍 Goal          → Build tools that matter          │
 └──────────────────────────────────────────────────────┘
 ```
 
@@ -68,28 +101,28 @@ I enjoy exploring the intersection of **AI, full-stack development, automation, 
 
 <td width="50%" valign="top">
 
-<h3>🏫 Quanta</h3>
+<h3>🔥 Nova-Edu</h3>
 
-An **AI-focused intelligent school management platform** built around the idea of a school for the future.
+Specialized Iranian educational AI system with agents, memory, multimodal generation, platform API, and an independent training path.
 
-**Education • AI • Full-Stack**
+**AI • Education • Agents • Python**
 
-<a href="https://github.com/Cypher-Group/Quanta">
-<img src="https://img.shields.io/badge/QUANTA-SCHOOL%20FOR%20THE%20FUTURE-00d4ff?style=for-the-badge"/>
+<a href="https://github.com/sinajr2011-prog/nova-edu">
+<img src="https://img.shields.io/badge/NOVA--EDU-OPEN%20SOURCE-7c3aed?style=for-the-badge"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>🤖 Persian AI Toolkit</h3>
+<h3>🏫 Quanta</h3>
 
-A collection of practical AI utilities and experiments focused on the Persian developer ecosystem.
+An AI-focused intelligent school platform built around the idea of a school for the future.
 
-**Python • AI • Developer Tools**
+**Education • AI • Full-Stack**
 
-<a href="https://github.com/sinajr2011-prog/persian-ai-toolkit">
-<img src="https://img.shields.io/badge/PERSIAN-AI%20TOOLKIT-7c3aed?style=for-the-badge"/>
+<a href="https://github.com/sinajr2011-prog/Quanta">
+<img src="https://img.shields.io/badge/QUANTA-SCHOOL%20FOR%20THE%20FUTURE-00d4ff?style=for-the-badge"/>
 </a>
 
 </td>
@@ -100,24 +133,28 @@ A collection of practical AI utilities and experiments focused on the Persian de
 
 <td width="50%" valign="top">
 
-<h3>⚡ NEXUS CLI</h3>
+<h3>⚔️ Kharazmika Arena</h3>
 
-A compact **zero-dependency Python developer toolkit** with utilities for hashing, UUIDs, Base64, JSON, passwords and project inspection.
+Nationwide math competition platform with XP, duels, leagues, class codes and seasonal systems.
 
-**Python • CLI • Utilities**
+**EdTech • Gamification • JS**
+
+<a href="https://github.com/sinajr2011-prog/kharazmika-arena">
+<img src="https://img.shields.io/badge/KHARAZMIKA%20ARENA-LIVE%20PROJECT-00d4ff?style=for-the-badge"/>
+</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>🛒 Gavin Shop</h3>
+<h3>🤖 Persian AI Toolkit</h3>
 
-A full-stack e-commerce project combining frontend, backend and database development.
+Practical AI utilities and experiments for the Persian developer ecosystem.
 
-**Full-Stack • Web • Database**
+**Python • AI • Developer Tools**
 
-<a href="https://github.com/sinajr2011-prog/Gavin-shop">
-<img src="https://img.shields.io/badge/GAVIN%20SHOP-FULL%20STACK-00d4ff?style=for-the-badge"/>
+<a href="https://github.com/sinajr2011-prog/persian-ai-toolkit">
+<img src="https://img.shields.io/badge/PERSIAN-AI%20TOOLKIT-7c3aed?style=for-the-badge"/>
 </a>
 
 </td>
@@ -143,11 +180,11 @@ A full-stack e-commerce project combining frontend, backend and database develop
 
 <div align="center">
 
-**AI & Development**  
-🤖 AI APIs • 🧠 AI Experiments • 🔌 REST APIs • 🛠️ Developer Tools
+**AI & Systems**  
+🤖 LLMs • 🧠 Agents • 🧪 Fine-Tuning • 🔌 REST APIs • 🧩 Platform Integrations
 
 **Workflow**  
-🐙 Git • 🧩 GitHub • ⚙️ GitHub Actions • 🐳 Docker • 🐧 Linux
+🐙 Git • ⚙️ GitHub Actions • 🐳 Docker • 🐧 Linux
 
 </div>
 
@@ -209,34 +246,23 @@ A full-stack e-commerce project combining frontend, backend and database develop
 
 ---
 
-
-
 ## 💻 Developer Terminal
 
 <div align="center">
 
 ```text
 ╭────────────────────────────────────────────────╮
-│                                                │
-│   ███████╗██╗███╗   ██╗ █████╗                │
-│   ██╔════╝██║████╗  ██║██╔══██╗               │
-│   ███████╗██║██╔██╗ ██║███████║               │
-│   ╚════██║██║██║╚██╗██║██╔══██║               │
-│   ███████║██║██║ ╚████║██║  ██║               │
-│   ╚══════╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝               │
-│                                                │
-│   sina@github ~ $ whoami                      │
-│   > sinajr                                     │
+│   sina@github ~ $ whoami                       │
+│   > Sina Jafari                                │
 │                                                │
 │   sina@github ~ $ focus                        │
-│   > AI • Full-Stack • Open Source              │
+│   > Educational AI • Agents • Full-Stack       │
 │                                                │
 │   sina@github ~ $ building                     │
-│   > Quanta                                     │
+│   > Nova-Edu 🔥                                │
 │                                                │
 │   sina@github ~ $ status                       │
 │   > ████████████████████ ONLINE                │
-│                                                │
 ╰────────────────────────────────────────────────╯
 ```
 
@@ -248,38 +274,25 @@ A full-stack e-commerce project combining frontend, backend and database develop
 
 | 🚀 Project | 🎯 Focus |
 |---|---|
+| 🔥 **Nova-Edu** | Specialized Iranian educational LLM + agents |
 | 🏫 **Quanta** | Intelligent school platform |
+| ⚔️ **Kharazmika Arena** | Gamified math competition system |
 | 🤖 **AI Tools** | Practical AI experiments |
-| ⚡ **NEXUS CLI** | Developer utilities |
-| 🌐 **Full-Stack Projects** | Real-world web systems |
-| 🧰 **Open Source** | Building & contributing |
+| 🧰 **Open Source** | Building in public |
 
 ---
 
 ## 🌱 Currently Learning
 
 ```text
-AI & Machine Learning       ███████████████░░░░░
+Educational LLMs & Agents   ██████████████████░░
+Fine-Tuning / QLoRA         ███████████████░░░░░
 Full-Stack Architecture     █████████████████░░░
-Open Source                 ██████████████░░░░░░
-Automation & DevOps         ████████████░░░░░░░░
-Game Development            ██████████░░░░░░░░░░
+Platform Integrations       ██████████████░░░░░░
+Open Source Systems         ████████████████░░░░
 ```
 
 ---
-
-## 🏅 GitHub Achievements
-
-<div align="center">
-
-⚡ **Quickdraw** &nbsp;&nbsp; • &nbsp;&nbsp;
-🦈 **Pull Shark** &nbsp;&nbsp; • &nbsp;&nbsp;
-🤝 **Pair Extraordinaire**
-
-</div>
-
----
-
 
 ## 🎯 My Developer Philosophy
 
@@ -298,40 +311,28 @@ Game Development            ██████████░░░░░░░�
 <details>
 <summary><strong>🇮🇷 برای مشاهده نسخه فارسی کلیک کنید</strong></summary>
 
-
 <br/>
 
 ### سلام! من سینا جعفری هستم 👋
 
-من یک دانش‌آموز و برنامه‌نویس هستم که عاشق تبدیل ایده‌ها به **نرم‌افزار واقعی** هستم.
+من یک دانش‌آموز و برنامه‌نویس هستم و روی سیستم‌های جدی **هوش مصنوعی آموزشی** کار می‌کنم.
 
-به‌خصوص به این حوزه‌ها علاقه دارم:
+### 🔥 پروژه پرچم‌دار من: Nova-Edu
 
-- 🤖 **هوش مصنوعی و ابزارهای AI**
-- 🌐 **توسعه فول‌استک**
-- 🧰 **ساخت ابزارهای توسعه‌دهنده**
-- 🏫 **فناوری آموزشی**
-- 🚀 **پروژه‌های اوپن‌سورس**
+**نِوا** اولین مسیر جدی برای ساخت یک مدل زبانی تخصصی آموزش ایران است:
 
-### 🚀 پروژه‌های شاخص من
+- تمرکز روی کتاب درسی + کنکور + تیزهوشان + المپیاد
+- سیستم چندعاملی (تشخیص اشتباه، طراح سوال، مشاور، توضیح تصویری)
+- حافظه بلندمدت دانش‌آموز
+- API برای اتصال به پلتفرم‌های آموزشی
+- مسیر مستقل‌شدن مدل (فاین‌تیون + اجرای محلی)
 
-**🏫 Quanta**  
-سامانه هوشمند مدیریت مدرسه با تمرکز ویژه روی هوش مصنوعی؛ با شعار:
+🔗 مخزن پروژه: [nova-edu](https://github.com/sinajr2011-prog/nova-edu)
 
-> **مدرسه در ابعاد آینده**
-
-**🤖 Persian AI Toolkit**  
-مجموعه‌ای از ابزارها و آزمایش‌های کاربردی هوش مصنوعی برای اکوسیستم فارسی.
-
-**⚡ NEXUS CLI**  
-یک Toolkit پایتونی بدون وابستگی خارجی برای ابزارهای مختلف توسعه‌دهنده.
-
-**🛒 Gavin Shop**  
-پروژه فروشگاه فول‌استک با تمرکز روی توسعه واقعی وب.
-
-### 🔭 در حال حاضر
-
-دارم روی **Quanta، ابزارهای AI، پروژه‌های فول‌استک و Open Source** کار می‌کنم.
+### بقیه تمرکزها
+- 🏫 **Quanta** — سامانه هوشمند مدرسه
+- ⚔️ **Kharazmika Arena** — رقابت و گیمیفیکیشن ریاضی
+- 🤖 ابزارهای AI و پروژه‌های فول‌استک
 
 > **بساز. یاد بگیر. بهترش کن. منتشرش کن. 🚀**
 
@@ -343,9 +344,13 @@ Game Development            ██████████░░░░░░░�
 
 ### 🤝 Let's Build Something Awesome
 
-**Open to interesting projects, ideas, collaborations and open-source contributions.**
+**Open to collaborations in Educational AI, agents, and real product building.**
 
 <br/>
+
+<a href="https://github.com/sinajr2011-prog/nova-edu">
+<img src="https://img.shields.io/badge/⭐%20Star%20Nova--Edu-7c3aed?style=for-the-badge&labelColor=0d1117"/>
+</a>
 
 <a href="https://github.com/sinajr2011-prog">
 <img src="https://img.shields.io/badge/Follow%20Me-GitHub-181717?style=for-the-badge&logo=github"/>
@@ -360,8 +365,6 @@ Game Development            ██████████░░░░░░░�
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:00d4ff,100:7c3aed&height=130&section=footer" width="100%"/>
 
 **Made with ❤️ by Sina Jafari**
-
-<div align="center">
 
 <a href="#top">
   <img src="https://img.shields.io/badge/⬆️%20BACK%20TO%20TOP%20⬆️-FF69B4?style=for-the-badge&labelColor=0d1117&color=8A2BE2&logo=rocket&logoColor=white" />
